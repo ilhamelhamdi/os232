@@ -2,7 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 15 L01 SCELE/Discord related
-ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related
-ZCZC W00 30 L10 Assignment #00
+ZCZC W00 90 L02 CLASSROOM meetings
+ZCZC W00 40 L10 Assignment #00
 ZCZC W00 60 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 25 L23 Regex & SED
+ZCZC W00 90 L02 CLASSROOM meetings
