@@ -2,6 +2,6 @@
 ## Sampurasun fellas!
 This is my github page
 
-|| [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os232/) ||
+|| [TARBALL](https://os.vlsm.org/Log/ilhamelhamdi.tar.bz2.txt) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os232/) ||
 
-#### REV00: Thu 26 Aug 2023 22:00
+#### REV00: Tue 5 Sep 2023 14:00
