@@ -11,3 +11,4 @@ ZCZC W00 20 L05 Studying for quiz week 0
 ZCZC W00 15 L05 Quiz week 0
 ZCZC W01 90 L02 CLASSROOM meetings
 ZCZC W01 90 L11 Assignment #01
+ZCZC W01 90 L02 CLASSROOM meetings
