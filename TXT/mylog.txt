@@ -1,7 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W02 100 L12 Assignment #02
+ZCZC W02 75 L05 Quiz related including studying
+ZCZC W02 90 L02 CLASSROOM meetings
+ZCZC W02 150 L12 Assignment #02
 ZCZC W02 20 L07 Demo related
 ZCZC W02 75 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 20 L26 GnuPG, key-gen, encrypt/decrypt
