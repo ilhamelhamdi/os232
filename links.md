@@ -30,3 +30,6 @@ This video explains about how OS manages I/O operations.
 
 9. [The Linux Programming Interface Book](https://github.com/rangaeeeee/books-raspberrypimagazines/blob/master/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)<br>
 It provides comprehensive understanding about low-level programming interface in Linux.
+
+10. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LpfguzkJMdjLQQHn)<br>
+This playlist explains about virtual memory in Linux. It includes page table, address translation, TLB, etc.
