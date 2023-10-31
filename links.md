@@ -33,3 +33,6 @@ It provides comprehensive understanding about low-level programming interface in
 
 10. [Virtual Memory](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LpfguzkJMdjLQQHn)<br>
 This playlist explains about virtual memory in Linux. It includes page table, address translation, TLB, etc.
+
+11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)<br>
+This video provide brief explanation about cooperating process, shared memory system, and how race condition can occurs.
