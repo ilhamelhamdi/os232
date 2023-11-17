@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W08 123 L12 Assignment #08
+ZCZC W08 60 L07 Demo related
+ZCZC W08 65 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 90 L02 CLASSROOM meetings 
+ZCZC W08 15 L62 Backup Virtual Debian Guest
+ZCZC W08 90 L02 CLASSROOM meetings 
 ZCZC W07 100 L12 Assignment #07
 ZCZC W07 60 L07 Demo related
 ZCZC W07 45 L06 References/Books/Documents/Browsing/GSGS related
