@@ -36,3 +36,9 @@ This playlist explains about virtual memory in Linux. It includes page table, ad
 
 11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)<br>
 This video provide brief explanation about cooperating process, shared memory system, and how race condition can occurs.
+
+12. [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ&ab_channel=SimpleSnippets)<br>
+This video discuss about how deadlock can occurs.
+
+13. [CPU Scheduling](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&si=SpqYc44ZJgZTYO22)<br>
+This playlist explain about CPU Scheduling.
